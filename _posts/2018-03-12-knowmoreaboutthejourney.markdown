@@ -1,13 +1,21 @@
 ---
 layout: post
-title:  "Life poems"
+title:  About the blog
 date:   2018-03-12 10:25:19 +0530
 categories: jekyll update
 comments: true
 ---
-Life is full of challenges. Economic difficulties, serious illnesses, family problems, and political unrest plague people on a daily basis. How a person faces each challenge that comes their way however, says much about their character, who they are on the inside. Some people draw strength and inspiration from the experiences of others. Many famous poets from both the past and present have helped and inspired people to face and overcome life's many challenges through the words of their poems. Such poems help people to see they are not alone in their struggles and that it is possible to overcome their problems.
+Can creativity be taught? Can a person be designed? , Such are the questions that used to tick in my mind before I began my journey in the field of design.
+Hello guys, I am here to embark a new venture by writing this blog.
+Through this blog, I will walk you through my journey of transforming from a high school procrastinator to a skilled professional designer. I will share the qualities one needs to consistently maintain in order to reach their goal. I will also share my work through this blog and share tips of lateral thinking.
 
-Source: https://www.familyfriendpoems.com/poems/life/life/
+Who are we, designers?
+<br/>Designers are lateral thinkers and have the ability to empathize, synthesize and study the insights to for the wellbeing of the lives of other people. Designers are problem solvers who see each problem as a step in their ladder towards growth. Lets us get abreast with the world of designers and design through this blog.
+
+Who am I?
+<br/>I, Kashish Ramrakhiani, am a student of NMIMS University School of Design. I peruse the course in the genre of Humanizing Technology. I have a science background from my high school years. I am a learner and I wish to learn more by consistently putting in my best efforts.
+
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>

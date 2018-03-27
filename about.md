@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Poems culture
+title: “Design is journey of discovery”-Derek Parker
 permalink: /about/
 ---
-
-Poems are not only a way of communicating but have also created a culture. People are facding away from this beautiful culture and are moving more towards other things=. This is an initiative to bring the people form all across the globe together to promote the culture of eriring and poems.  
+Design is all about exploring ourselves.
+<br/>We learn by failing, we learn by pushing ourselves our maximum capacity.
+<br/>Long hours of hard work, makes us discover ourselves.
+<br/>We treat rejections like challenges, hurdles like protocols,
+<br/>And we proudly call ourselves problem solvers.

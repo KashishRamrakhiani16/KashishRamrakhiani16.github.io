@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: amazing poems
-
+title: Into the world of design
 email: kashishr1603@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
-  This is to promote the  culture of poems and writing in the youth.
+  Through this blog, let us all get acquainted with the world of design. Feedback and areas of improvement are appreciated to be listed in the comments. If you find this blog interesting, state it in the comments below.
+  Do not forget to subscribe this blog to get interesting posts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Kashish1603
 github_username:  KashishRamrahiani16
 google_analytics: UA-115633521-1
+instagram_unsername: kashish_ramrakhiani
 
 # Build settings
 markdown: kramdown
